@@ -1,7 +1,5 @@
 import React from "react";
 
-const currYear = new Date().getFullYear();
-
 function Note(props) {
   return (
     <div className="note">
